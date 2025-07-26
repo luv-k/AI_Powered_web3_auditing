@@ -1,4 +1,4 @@
-# AI Powered Web3 Auditing (Frontend)
+# AI Powered Web3 Auditing 
 
 This repo contains the **React-based frontend** for the AI‑powered Web3 auditing system. The heavy backend AI agent (GenAI + model orchestration, audit engine, data pipelines) is not included here due to size constraints.
 
